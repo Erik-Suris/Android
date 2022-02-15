@@ -45,7 +45,7 @@ header {
 }
 
 header > h1 {
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     font: normal 3em var(--fonte-destaque);
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.5);
 }
